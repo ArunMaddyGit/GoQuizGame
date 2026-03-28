@@ -76,7 +76,7 @@ Time to winner: 183.214ms
 Mock total answers sent: 1000
 Mock correct answers sent: 491
 Mock incorrect answers sent: 509
-Metrics response: {"total":1000,"correct":491,"incorrect":509}
+Metrics response from engine.go: {"total":1000,"correct":491,"incorrect":509}
 All users responded.
 ```
 
