@@ -44,8 +44,8 @@ go version
 Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/quiz-race.git
-cd quiz-race
+git clone https://github.com/ArunMaddyGit/GoQuizGame.git
+cd GoQuizGame
 ```
 
 Step 2: Download dependencies
@@ -162,10 +162,4 @@ The API server uses Go's built-in `net/http`, which handles each request in its 
 ## Known Limitations & Future Enhancements
 
 - Currently ignores all submissions after the first correct answer for winner selection (metrics still continue).
-- Future: expose sender metrics via API as well.
-- Future: support multiple rounds.
-- Future: persist results to a database.
 
-## License
-
-MIT
